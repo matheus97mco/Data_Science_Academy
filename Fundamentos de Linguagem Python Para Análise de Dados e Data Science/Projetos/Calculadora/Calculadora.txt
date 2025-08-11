@@ -1,1 +1,2 @@
-
+Projeto de calculadora básica em python, apenas para praticar as aulas do curso!
+A basic calculator project in Python, just to practice the course lessons!
