@@ -48,6 +48,7 @@ Selecione o número da operação desejada:
 Digite sua opção (1/2/3/4): 1
 
 Digite o primeiro número: 10
+
 Digite o segundo número: 5
 
 Resultado: 15.0
