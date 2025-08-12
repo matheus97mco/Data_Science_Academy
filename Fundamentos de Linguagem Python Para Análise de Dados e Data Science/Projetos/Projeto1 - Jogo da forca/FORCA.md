@@ -43,6 +43,7 @@ Desenvolver um game é uma forma divertida e eficiente de praticar lógica de pr
 
   Digite uma letra: a
   
+  
 💡 Aprendizados
 
     Este projeto ajuda a:
