@@ -8,7 +8,8 @@ Aqui, todo o conhecimento adquirido nos capítulos anteriores será colocado em 
 Desenvolver um game é uma forma divertida e eficiente de praticar lógica de programação, estruturas de dados e controle de fluxo, além de reforçar conceitos essenciais para qualquer programador.
 
 🛠 Tecnologias Utilizadas
-    Python 3.x 🐍
+
+    Python 3... 🐍 
     Funções e Estruturas de Controle
     Manipulação de Strings
     Estruturas de Repetição e Condição
@@ -16,12 +17,14 @@ Desenvolver um game é uma forma divertida e eficiente de praticar lógica de pr
     Módulo random para sorteio de palavras
 
 🎯 Objetivos
+
     Colocar em prática os fundamentos de programação em Python
     Desenvolver raciocínio lógico e organização de código
     Criar um jogo interativo com entrada e saída de dados
     Trabalhar com laços de repetição, condições e listas
 
 🕹 Como Funciona o Jogo
+
     O programa sorteia uma palavra aleatória de uma lista pré-definida
     O jogador tenta adivinhar a palavra, letra por letra
     A cada erro, perde uma tentativa
@@ -31,18 +34,23 @@ Desenvolver um game é uma forma divertida e eficiente de praticar lógica de pr
         ❌ O número máximo de erros for atingido (Derrota)
 
 📷 Exemplo de Execução
+
   Palavra: _ _ _ _ _ _
+  
   Letras erradas: []
+  
   Tentativas restantes: 6
 
   Digite uma letra: a
-
+  
 💡 Aprendizados
-Este projeto ajuda a:
+
+    Este projeto ajuda a:
     Reforçar a sintaxe básica do Python
     Trabalhar com entrada e saída de dados
     Usar laços (while, for) e condições (if, else)
     Manipular listas e strings
     Aplicar conceitos de programação de forma prática e divertida
+
 
 ✨ Bons estudos e bom jogo! 🚀
