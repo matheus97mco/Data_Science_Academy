@@ -17,7 +17,7 @@ Também veremos como usar funções built-in para otimizar tarefas comuns e aume
 
     ⚙️ Importação – import, from ... import ..., as
 
-    🏗 Funções Built-in – Uso de funções internas como len(), type(), sum(), max(), min()
+    🏗 Funções Built-in – com ênfase para map(), zip(), reduce(), filter(), enumerate(), entre outras como len(), type(), sum(), max(), min()
 
     🔄 Funções para Conversão de Tipos – int(), float(), str()
 
